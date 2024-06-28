@@ -27,6 +27,7 @@ public class Employee {
     @Column(name = "email_id", nullable = false, unique = true)
     private String email;
 
+    // this is the comment
     @ManyToOne
     @JoinColumn(name = "department_id")
     private Department department;

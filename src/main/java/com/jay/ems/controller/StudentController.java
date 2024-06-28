@@ -1,7 +1,5 @@
 package com.jay.ems.controller;
 
-import com.jay.ems.Entity.Student;
-
 import com.jay.ems.service.StudentService.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

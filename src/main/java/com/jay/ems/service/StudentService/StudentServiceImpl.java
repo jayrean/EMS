@@ -1,6 +1,5 @@
 package com.jay.ems.service.StudentService;
 
-import com.jay.ems.Entity.Student;
 import com.jay.ems.repository.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
